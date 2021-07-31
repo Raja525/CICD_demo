@@ -7,6 +7,15 @@
 <title>Home</title>
 </head>
 <body>
-	<h1>Welcome</h1>
+	<center>
+		<h1>Welcome</h1>
+	</center>
+	<div>
+		<form>
+			<input type="text" placeholder="username">
+			<input type="password" placeholder="password">
+		</form>
+	</div>
+	
 </body>
 </html>
