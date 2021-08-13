@@ -1,1 +1,11 @@
 @charset "ISO-8859-1";
+
+#container
+{
+background-image:url('/CICDdemo/resources/IMG/airlinelist.jpg');
+background-position:center;
+background-size:cover;
+background-repeat:no-repeat;
+width:100%;
+height:400px;
+}
